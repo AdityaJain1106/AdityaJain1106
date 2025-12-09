@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [Different Projects and ging updates on linkedin]
 
-- 🌱 I’m currently learning **Ai Dev | Python Libraries (for Data Analytics)**
+- 🌱 I’m currently learning **Ai Dev | Python Libraries | Web Applications **
 
 - 👯 I’m looking to collaborate on **A collaborative ideation and team-building platform**
 
-- 👨‍💻 All of my projects are available at [https://adityajain-eportfolio.netlify.app/](https://adityajain-eportfolio.netlify.app/)
+- 👨‍💻 U can visit my portfolio to know about me more[e-Portfolio](https://adityajain-eportfolio.netlify.app/)
 
 - 📫 How to reach me **adijain1106@gmail.com**
 
-- 📄 Know about my experiences [https://adityajain-eportfolio.netlify.app/images/cv.pdf](https://adityajain-eportfolio.netlify.app/images/cv.pdf)
+- 📄 Ucan see all my projects on my [Github](https://github.com/AdityaJain1106)
 
 - ⚡ Fun fact **I turn caffeine and late-night ideas into production-ready code.**
 
