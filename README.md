@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Jain</h1>
 <h3 align="center">MERN stack enthusiast | Turning ideas into scalable products.</h3>
 
-- 🔭 I’m currently working on [Different Projects and ging updates on linkedin]
-
 - 🌱 I’m currently learning **Ai Dev | Python Libraries | Web Applications **
 
 - 👯 I’m looking to collaborate on **A collaborative ideation and team-building platform**
@@ -11,10 +9,12 @@
 
 - 📫 How to reach me **adijain1106@gmail.com**
 
-- 📄 Ucan see all my projects on my [Github](https://github.com/AdityaJain1106)
+- 📄 U can see all my projects on my [Github](https://github.com/AdityaJain1106)
 
 - ⚡ Fun fact **I turn caffeine and late-night ideas into production-ready code.**
 
+- 🔭 I’m currently working on [Different Projects and sharing updates on Linkedin]
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya jain" height="30" width="40" /></a>
