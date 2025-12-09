@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Jain</h1>
 <h3 align="center">MERN stack enthusiast | Turning ideas into scalable products.</h3>
 
-- 🔭 I’m currently working on [FinanceX](https://financesx.netlify.app)
+- 🔭 I’m currently working on [Different Projects and ging updates on linkedin]
 
 - 🌱 I’m currently learning **Ai Dev | Python Libraries (for Data Analytics)**
 
