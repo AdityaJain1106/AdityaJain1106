@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  Building meaningful products at the intersection of technology, creativity, and AI.
+  Building intelligent applications, solving challenging problems, and turning ideas into real-world products.. with technology, creativity, and AI.
 </p>
 
 <p align="center">
@@ -39,9 +39,10 @@
 |---|---|
 | **HealP** | A healthcare-focused web application built to simplify digital healthcare experiences. |
 | **NeuroRead** | An AI-powered Chrome extension that makes web browsing more accessible and intelligent. |
-| **Voice AI Chat App** | A conversational AI application integrating Gemini, ElevenLabs, and Firebase. |
-| **ViraliSense AI** | An AI-powered trend prediction platform analyzing social signals. |
-| **AI Trip Planner** | An AI-powered application for intelligent travel planning. |
+| **Merchandise Store** | A modern full-stack ecommerce merchandise store built using React, Vite, Tailwind CSS, Firebase, Framer Motion, and Three.js. |
+| **FinanceX** | All-in-one digital platform designed to simplify personal finance and enhance financial literacy for users of all backgrounds. |
+| **ParkingIQ** | AI-driven parking enforcement intelligence platform. Upload a parking violations CSV to get... |
+| **Trail.AI** | A Multi-Chat, Voice-Driven AI Assistant Powered by Gemini + ElevenLabs. |
 
 Explore my repositories for more projects and experiments!
 
@@ -106,7 +107,7 @@ Explore my repositories for more projects and experiments!
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/adddijain/)/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:adijain1106@gmail.com">
