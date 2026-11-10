@@ -1,24 +1,122 @@
-<h1 align="center">Hi 👋, I'm Aditya Jain</h1>
-<h3 align="center">MERN stack enthusiast | Turning ideas into scalable products.</h3>
 
-- 🌱 I’m currently learning **Ai Dev | Python Libraries | Web Applications **
+<h1 align="center">Hey 👋, I'm Aditya Jain</h1>
 
-- 👯 I’m looking to collaborate on **A collaborative ideation and team-building platform**
+<h3 align="center">
+  Full-Stack Developer | AI Enthusiast | Problem Solver
+</h3>
 
-- 👨‍💻 U can visit my portfolio to know about me more[e-Portfolio](https://adityajain-eportfolio.netlify.app/)
-
-- 📫 How to reach me **adijain1106@gmail.com**
-
-- 📄 U can see all my projects on my [Github](https://github.com/AdityaJain1106)
-
-- ⚡ Fun fact **I turn caffeine and late-night ideas into production-ready code.**
-
-- 🔭 I’m currently working on [Different Projects and sharing updates on Linkedin]
-  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya jain" height="30" width="40" /></a>
+<p align="center">
+  Building meaningful products at the intersection of technology, creativity, and AI.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://adityajain-eportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/AdityaJain1106">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 B.Tech student at **VIT Bhopal University (2024–2028)**.
+- 💻 Interested in **Full-Stack Development, AI Engineering, and Software Development**.
+- 🤖 Exploring **LLMs, Generative AI, AI Agents, and intelligent applications**.
+- 🧠 Practicing **Data Structures & Algorithms using Java** and Competitive Programming.
+- 🚀 Love turning ideas into functional, user-centric products.
+- 🛠️ Built projects involving AI integration, browser extensions, voice AI, and full-stack systems.
+- 🤝 Open to collaborating on innovative projects, hackathons, and meaningful tech ideas.
+- ⚡ Fun fact: I turn curiosity, caffeine, and late-night ideas into working software.
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| **HealP** | A healthcare-focused web application built to simplify digital healthcare experiences. |
+| **NeuroRead** | An AI-powered Chrome extension that makes web browsing more accessible and intelligent. |
+| **Voice AI Chat App** | A conversational AI application integrating Gemini, ElevenLabs, and Firebase. |
+| **ViraliSense AI** | An AI-powered trend prediction platform analyzing social signals. |
+| **AI Trip Planner** | An AI-powered application for intelligent travel planning. |
+
+Explore my repositories for more projects and experiments!
+
+---
+
+### 💻 Tech Stack & Tools
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css" />
+</p>
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
+</p>
+
+**AI / ML & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,gcp" />
+</p>
+
+**Tools & Platforms**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
+
+### 🧠 Problem Solving
+
+- Practicing Data Structures & Algorithms using Java.
+- Solving problems on Codeforces and LeetCode.
+- Exploring topics including Dynamic Programming, Graphs, Trees, Greedy, Binary Search, and more.
+- Focused on improving problem-solving skills through consistency and contests.
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaJain1106&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaJain1106&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaJain1106&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:adijain1106@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://adityajain-eportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-black?style=for-the-badge&logo=googlechrome" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Always learning. Always building. Always improving. 🚀</b>
+</p>
